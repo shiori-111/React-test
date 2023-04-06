@@ -1,4 +1,4 @@
 # React-test
 
 # IMAGES
-<img src='' />
+<img src='./images/' />
